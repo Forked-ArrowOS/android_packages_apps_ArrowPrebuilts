@@ -54,7 +54,7 @@ function fetchPrebuilts() {
 # parameters
 # 1 - App name
 # 2 - App apk url
-fetchPrebuilts DuckDuckGo https://api.github.com/repos/duckduckgo/Android/releases/latest
+fetchPrebuilts FossBrowser https://api.github.com/repos/scoute-dich/browser/releases/latest
 fetchPrebuilts SimpleCalendar https://api.github.com/repos/SimpleMobileTools/Simple-Calendar/releases/latest
 fetchPrebuilts SimpleGallery https://api.github.com/repos/SimpleMobileTools/Simple-Gallery/releases/latest
 

@@ -1,6 +1,6 @@
 android_app_import {
-	name: "DuckDuckGo",
-	apk: "DuckDuckGo/DuckDuckGo.apk",
+	name: "FossBrowser",
+	apk: "FossBrowser/FossBrowser.apk",
 	presigned: true,
 	dex_preopt: {
 		enabled: false,
